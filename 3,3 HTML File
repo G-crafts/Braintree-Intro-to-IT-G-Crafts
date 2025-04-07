@@ -1,0 +1,29 @@
+<!-- This is the HTML code for the home page of my website. -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>My CookieCrumble Canvas</title>
+
+</head>
+
+<body>
+
+<h1>Welcome to my kookie cookiecrumbler.</h>
+
+<p>Will you crumble the cookies? Or will the cookeis crumble you?</p>
+
+ 
+
+<!-- I added a twist of my own to the code and it will print out the cookie crumbler webpage. -->
+
+<br />
+
+<p>Get ready to crush your competition!</p>
+
+</body>
+
+</html>
